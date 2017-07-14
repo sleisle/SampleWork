@@ -1,4 +1,4 @@
-# sampleWork
+# Sample Work
 Contains some code samples in various technologies
 
 C:
